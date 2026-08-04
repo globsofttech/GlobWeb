@@ -75,7 +75,7 @@ export const notificationImages = [ notification4, notification3, notification2]
 export const companyLogos = [
   { logo: notification5, url: "https://samirahomestay.com/" },
   { logo: notification4, url: "https://www.newsarpan.com/" },
-  { logo: notification3, url: "https://www.everestautorepairs.com.au/" },
+  { logo: notification3, url: "https://globsoft.tech/EverestAutoRepair" },
   { logo: notification2, url: "https://our-bakery.github.io/" },
 ];
 
